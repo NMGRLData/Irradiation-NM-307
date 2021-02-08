@@ -58,67 +58,12 @@
         "value": 1.0028055907369715
     },
     "CDD": {
-        "error": 0.0008338702203239418,
-        "fit": "Weighted Mean",
-        "references": [
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-2091",
-                "uuid": "2db518bd-dc41-49da-a99d-322cc0ca44dd"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-2092",
-                "uuid": "3d94d34b-df12-4fc5-86b1-9554de26f516"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-2093",
-                "uuid": "b34f9b21-ee39-4520-a6b6-812a51c2f874"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-2094",
-                "uuid": "5e7e97db-802d-4d2f-92ba-28fb5ff2e2c8"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-2095",
-                "uuid": "9cd05b34-cc7a-4cde-a9a4-fcfec825f868"
-            },
-            {
-                "exclude": "omit",
-                "record_id": "a-02-J-2096",
-                "uuid": "a71344bb-5d5f-4cd3-9eaa-56424e7a6795"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-2097",
-                "uuid": "94a06f55-0046-4e94-ab1c-0d65dff24f18"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-2098",
-                "uuid": "38fdcbd8-1b98-41a9-8187-65f288b1225c"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-2099",
-                "uuid": "f3ab54d8-dbee-4b66-86fd-21a53cf571ba"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-2100",
-                "uuid": "f27e2eed-2975-4f91-adc9-a1af9e6daab5"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-2101",
-                "uuid": "e8946374-b1a1-426b-bb6e-b04934e7cb21"
-            }
-        ],
+        "error": 0.0008282264286466225,
+        "fit": "bulk_edit",
+        "references": "",
         "reviewed": true,
-        "value": 1.0008419852884614
+        "scalar": 0.9932318104906938,
+        "value": 0.9940680970631588
     },
     "H1": {
         "error": 1e-20,
